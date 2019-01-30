@@ -1,0 +1,67 @@
+#ls : list directory contents
+
+#cat : concatenate the file
+
+#nano : file editor
+
+#cd : changes directories
+
+#rm : remove files or directories
+
+#chmod : change file mode bits, from read to write and vise versa
+
+#chown : change ownership of a file
+
+#chgrp : change group ownership
+
+#screen : screen manager with VT100/ANSI terminal emulation, create background process with terminal emulator.
+
+#ssh : secure shell for remote connection
+
+#man : manual/help
+
+#pwd : print name of current/working directory.
+
+#cd .. : moves up one directory
+
+#mkdir : create a new directory
+
+#rmdir : remove director
+
+#locate : find a file with in directory or system
+
+#whereis : find a file with in system
+
+#cp : copy file
+
+#mv : move file/directory or rename a file or directory
+
+#mount : mount device such as cdrom/usb
+
+#zip : compress directory/files
+
+#unzip : Extract zip files
+
+#umount : umount(eject) the usb
+
+#df : list partation table
+
+#ifconfig : show interface details
+
+#w : Show who is logged on and what they are doing
+
+#top : show system task manager
+
+#netstat : show local or remote established connection
+
+#nslookup : query Internet name servers interactively
+
+#dig : dns utility
+
+#touch : create a file
+
+#vi : vim file editor
+
+#free -h : check free memoryruns
+
+#ping www.google.com(target ip) -t : look pings
